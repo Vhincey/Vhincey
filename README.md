@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/futuristic-dark-violet-technology-background-with-orange-green-neon-lines-glowing-vector-banner-design_88343-598.jpg?w=2000)
 
-<h1 align="center">Hi 👋, I'm Vinencia</h1>
+<h1 align="center">Hi 👋, I'm Vincencia</h1>
 <h3 align="center">I work with 3D assets and develop VR environments</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3SKGAHiZ38NxbvhYJ3uJzL6Fl_B8yvLyMp5l5lHIQB8bhfR6CX67SE4RBqg95XR3S4Jo&usqp=CAU">
 
